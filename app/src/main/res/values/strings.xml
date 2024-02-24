@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UsefulTime</string>
+    <string name="configure">Configure (use 24h format)</string>
+    <string name="configure_main">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Visualizes the progress of your daily useful time</string>
+    <string name="start_time_conf" >Start Time</string>
+    <string name="end_time_conf" >End Time</string>
+    <string name="start_end_time" >%1d:00 to %2d:00</string>
+    <string name="start_end_units" >%1d of %2d</string>
+    <string name="add_the_widget_from_your_home_screen">Add the widget from your home screen</string>
+</resources>
